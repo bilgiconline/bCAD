@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "bCAD", "bCAD\bCAD.vbproj", "{271852AA-21BB-4916-9AFB-A32BA6F7491C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{271852AA-21BB-4916-9AFB-A32BA6F7491C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{271852AA-21BB-4916-9AFB-A32BA6F7491C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{271852AA-21BB-4916-9AFB-A32BA6F7491C}.Debug|x64.ActiveCfg = Debug|x64
+		{271852AA-21BB-4916-9AFB-A32BA6F7491C}.Debug|x64.Build.0 = Debug|x64
+		{271852AA-21BB-4916-9AFB-A32BA6F7491C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{271852AA-21BB-4916-9AFB-A32BA6F7491C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{271852AA-21BB-4916-9AFB-A32BA6F7491C}.Release|x64.ActiveCfg = Release|x64
+		{271852AA-21BB-4916-9AFB-A32BA6F7491C}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9DB9175C-8C05-4A73-BFC2-C63D437BBDB5}
+	EndGlobalSection
+EndGlobal
